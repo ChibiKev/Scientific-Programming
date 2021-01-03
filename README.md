@@ -1,6 +1,5 @@
 ## Scientific Programming
-Assignments for CSC 301 - Scientific Programming with Professor  
-Erik K. Grimmelmann at the City College of New York.
+Assignments for CSC 301 - Scientific Programming with Professor Erik K. Grimmelmann at the City College of New York.
 ## About The Assignment 
 - Check the PDF in each folder.
 ## Ask me about anything
